@@ -9,6 +9,10 @@ https://github.com/JFLarvoire/SysToolsLib
 
 https://github.com/klange/toaruos
 
+https://github.com/thethumbler/Aquila
+
+https://github.com/redis/redis
+
 https://github.com/AllAlgorithms/c
 
 https://github.com/TheAlgorithms/C
