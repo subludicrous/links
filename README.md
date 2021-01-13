@@ -5,6 +5,10 @@ C:
 
 https://github.com/clibs/clib
 
+https://github.com/JFLarvoire/SysToolsLib
+
+https://github.com/klange/toaruos
+
 https://github.com/AllAlgorithms/c
 
 https://github.com/TheAlgorithms/C
@@ -299,7 +303,7 @@ https://github.com/miracl/MIRACL
 
 https://github.com/groonga/groonga
 
-
+https://github.com/tmux/tmux
 
 
 
