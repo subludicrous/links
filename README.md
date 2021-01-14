@@ -13,6 +13,8 @@ https://github.com/thethumbler/Aquila
 
 https://github.com/redis/redis
 
+https://github.com/fogleman/Craft
+
 https://github.com/Immediate-Mode-UI/Nuklear
 
 https://github.com/andlabs/libui
