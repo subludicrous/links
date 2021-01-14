@@ -15,6 +15,8 @@ https://github.com/redis/redis
 
 https://github.com/Immediate-Mode-UI/Nuklear
 
+https://github.com/andlabs/libui
+
 https://github.com/AllAlgorithms/c
 
 https://github.com/TheAlgorithms/C
