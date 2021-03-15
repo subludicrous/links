@@ -1,6 +1,26 @@
 # links
 links to stuff
 
+CodeReview bookmarks:
+
+https://codereview.stackexchange.com/questions/257099/stop-watch-class-in-c-using-chrono
+
+https://codereview.stackexchange.com/questions/256790/windows-high-resolution-timing-class
+
+https://codereview.stackexchange.com/questions/256677/dynamic-queue-implementation-in-c
+
+https://codereview.stackexchange.com/questions/257145/smart-dynamic-array-in-c
+
+https://codereview.stackexchange.com/questions/256565/c-fast-fourier-transform
+
+https://codereview.stackexchange.com/questions/256637/c-fast-fourier-transform-attempt-2
+
+https://codereview.stackexchange.com/questions/255375/c-eccentricity-function-on-metric-spaces
+
+https://codereview.stackexchange.com/questions/257036/faster-tridiagonal-matrix-multiplication
+
+https://codereview.stackexchange.com/questions/257075/testing-and-coding-conventions-for-testing-c-with-sdl
+
 C:
 
 https://github.com/clibs/clib
