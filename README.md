@@ -21,6 +21,12 @@ https://codereview.stackexchange.com/questions/257036/faster-tridiagonal-matrix-
 
 https://codereview.stackexchange.com/questions/257075/testing-and-coding-conventions-for-testing-c-with-sdl
 
+https://codereview.stackexchange.com/questions/257069/securing-my-password-wallet
+
+https://codereview.stackexchange.com/questions/256910/count-word-frequencies-and-print-them-most-frequent-first
+
+https://codereview.stackexchange.com/questions/256572/multithreaded-logger
+
 C:
 
 https://github.com/clibs/clib
