@@ -1,7 +1,7 @@
 # links
 links to stuff
 
-CodeReview bookmarks:
+StackExchange bookmarks:
 
 https://codereview.stackexchange.com/questions/257099/stop-watch-class-in-c-using-chrono
 
@@ -26,6 +26,12 @@ https://codereview.stackexchange.com/questions/257069/securing-my-password-walle
 https://codereview.stackexchange.com/questions/256910/count-word-frequencies-and-print-them-most-frequent-first
 
 https://codereview.stackexchange.com/questions/256572/multithreaded-logger
+
+https://codereview.stackexchange.com/questions/133727/project-euler-3-largest-prime-factor
+
+https://codereview.stackexchange.com/questions/46906/project-euler-3-largest-prime-factor/48185#48185
+
+https://codereview.stackexchange.com/questions/257256/a-c-program-to-check-if-a-string-is-a-pangram
 
 C:
 
