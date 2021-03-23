@@ -33,6 +33,20 @@ https://codereview.stackexchange.com/questions/46906/project-euler-3-largest-pri
 
 https://codereview.stackexchange.com/questions/257256/a-c-program-to-check-if-a-string-is-a-pangram
 
+https://codereview.stackexchange.com/questions/255692/unix-cp-multithreaded-implementation-in-c
+
+https://codereview.stackexchange.com/questions/252204/wi-fi-scheduler-written-in-c
+
+https://codereview.stackexchange.com/questions/256840/c-tcpserver-class
+
+https://codereview.stackexchange.com/questions/250794/prompt-user-to-choose-from-menu
+
+https://codereview.stackexchange.com/questions/257556/a-batch-recursive-count-if-function-with-unwrap-level-for-various-type-arbitrary
+
+https://codereview.stackexchange.com/questions/257547/multiply-a-square-matrix-with-the-diagonal-and-antidiagonal-elements-different-f
+
+https://codereview.stackexchange.com/questions/257546/rsync-helper-in-c-improved
+
 C:
 
 https://github.com/clibs/clib
